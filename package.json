@@ -1,13 +1,13 @@
 {
   "name": "cmdfu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Command-line options parser for NodeJS functions",
   "main": "index.js",
   "directories": {
     "doc": "doc"
   },
   "scripts": {
-    "bump": "node task/dev/bump.js",
+    "bump": "node dev/bump.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
